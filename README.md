@@ -20,3 +20,5 @@ RSI Demomaker 1.0 (https://www.pouet.net/topic.php?which=10262)
 "1patternloop1v3.mod" by TDK (https://www.pouet.net/prod.php?which=49581)
 
 WinUAE and XSplit used for recording, Davicini Resolve for edit and encoding
+
+Logos used are respective of their trademarks
