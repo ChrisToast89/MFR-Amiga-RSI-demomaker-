@@ -15,6 +15,7 @@ Photoshop (IFF index palette support, composition)
 Brilliance (palette remapping)
 
 RSI Demomaker 1.0 (https://www.pouet.net/topic.php?which=10262)
+----additional support files from disk 2/2 (Scopex font)
 
 "1patternloop1v3.mod" by TDK (https://www.pouet.net/prod.php?which=49581)
 
